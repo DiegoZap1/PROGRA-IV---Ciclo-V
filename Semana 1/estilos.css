@@ -1,0 +1,24 @@
+p{
+    background-color: red;
+}
+
+.titulo1{
+    background-color: blue;
+}
+
+#parrafo1{
+    background-color: greenyellow;
+}
+
+a{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.div1{
+    border: 1px black solid;
+}
+
+.container{
+    display: grid;
+}
